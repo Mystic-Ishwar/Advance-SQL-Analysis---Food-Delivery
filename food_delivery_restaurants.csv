@@ -1,0 +1,401 @@
+restaurant_id,restaurant_name,city,cuisine
+1,Biryani Palace 1,Hyderabad,Chinese
+2,City Diner 2,Lucknow,Chinese
+3,Urban Bites 3,Delhi,Italian
+4,Spice Hub 4,Kolkata,Fast Food
+5,Urban Bites 5,Hyderabad,Italian
+6,Tandoori Nights 6,Chennai,Chinese
+7,Food Junction 7,Bangalore,Indian
+8,Urban Bites 8,Bangalore,Fast Food
+9,Urban Bites 9,Hyderabad,Fast Food
+10,Royal Kitchen 10,Pune,Chinese
+11,Tandoori Nights 11,Hyderabad,Fast Food
+12,Curry House 12,Delhi,Chinese
+13,Urban Bites 13,Chennai,Indian
+14,Food Junction 14,Hyderabad,Indian
+15,Food Fiesta 15,Ahmedabad,Indian
+16,Tandoori Nights 16,Delhi,Chinese
+17,City Diner 17,Delhi,Fast Food
+18,Food Fiesta 18,Bangalore,Italian
+19,Food Fiesta 19,Hyderabad,Fast Food
+20,Tandoori Nights 20,Chennai,Indian
+21,Tandoori Nights 21,Chennai,Indian
+22,Royal Kitchen 22,Lucknow,Indian
+23,Royal Kitchen 23,Delhi,Indian
+24,Curry House 24,Pune,Indian
+25,Tandoori Nights 25,Kolkata,Italian
+26,Spice Hub 26,Delhi,Italian
+27,Curry House 27,Pune,Chinese
+28,Royal Kitchen 28,Kolkata,Italian
+29,Food Junction 29,Hyderabad,Fast Food
+30,Food Fiesta 30,Kolkata,Chinese
+31,City Diner 31,Jaipur,Fast Food
+32,Food Fiesta 32,Hyderabad,Fast Food
+33,Tandoori Nights 33,Mumbai,Fast Food
+34,Food Fiesta 34,Hyderabad,Chinese
+35,City Diner 35,Bangalore,Indian
+36,Urban Bites 36,Kolkata,Italian
+37,Curry House 37,Mumbai,Italian
+38,Taste Town 38,Pune,Italian
+39,Spice Hub 39,Chennai,Fast Food
+40,Biryani Palace 40,Chennai,Italian
+41,Food Junction 41,Delhi,Italian
+42,Food Fiesta 42,Bangalore,Chinese
+43,City Diner 43,Pune,Fast Food
+44,Spice Hub 44,Hyderabad,Chinese
+45,Taste Town 45,Mumbai,Chinese
+46,Food Junction 46,Hyderabad,Chinese
+47,Spice Hub 47,Jaipur,Italian
+48,Urban Bites 48,Delhi,Fast Food
+49,City Diner 49,Hyderabad,Indian
+50,City Diner 50,Delhi,Indian
+51,Spice Hub 51,Hyderabad,Italian
+52,Food Junction 52,Jaipur,Chinese
+53,Curry House 53,Jaipur,Italian
+54,Urban Bites 54,Ahmedabad,Italian
+55,Royal Kitchen 55,Chennai,Italian
+56,Taste Town 56,Hyderabad,Indian
+57,Food Fiesta 57,Bangalore,Italian
+58,Royal Kitchen 58,Pune,Italian
+59,Spice Hub 59,Lucknow,Indian
+60,Food Junction 60,Jaipur,Italian
+61,Tandoori Nights 61,Pune,Chinese
+62,Royal Kitchen 62,Lucknow,Italian
+63,Food Fiesta 63,Lucknow,Italian
+64,Urban Bites 64,Bangalore,Indian
+65,City Diner 65,Bangalore,Chinese
+66,Royal Kitchen 66,Jaipur,Fast Food
+67,Royal Kitchen 67,Lucknow,Italian
+68,Royal Kitchen 68,Kolkata,Fast Food
+69,Spice Hub 69,Kolkata,Fast Food
+70,Spice Hub 70,Ahmedabad,Indian
+71,Royal Kitchen 71,Ahmedabad,Chinese
+72,Food Junction 72,Mumbai,Chinese
+73,Curry House 73,Kolkata,Italian
+74,Royal Kitchen 74,Bangalore,Italian
+75,Food Junction 75,Bangalore,Fast Food
+76,Curry House 76,Lucknow,Chinese
+77,Curry House 77,Delhi,Indian
+78,Food Junction 78,Bangalore,Fast Food
+79,Biryani Palace 79,Lucknow,Indian
+80,Food Fiesta 80,Delhi,Chinese
+81,Food Junction 81,Chennai,Indian
+82,City Diner 82,Kolkata,Chinese
+83,City Diner 83,Hyderabad,Chinese
+84,Urban Bites 84,Lucknow,Fast Food
+85,Urban Bites 85,Ahmedabad,Chinese
+86,Urban Bites 86,Pune,Indian
+87,Curry House 87,Delhi,Fast Food
+88,Biryani Palace 88,Mumbai,Indian
+89,Biryani Palace 89,Bangalore,Fast Food
+90,Royal Kitchen 90,Delhi,Indian
+91,Tandoori Nights 91,Delhi,Chinese
+92,Taste Town 92,Ahmedabad,Italian
+93,Tandoori Nights 93,Mumbai,Italian
+94,Urban Bites 94,Delhi,Indian
+95,Biryani Palace 95,Bangalore,Italian
+96,Food Junction 96,Lucknow,Indian
+97,Curry House 97,Bangalore,Chinese
+98,Taste Town 98,Pune,Fast Food
+99,Curry House 99,Ahmedabad,Indian
+100,City Diner 100,Mumbai,Italian
+101,City Diner 101,Lucknow,Chinese
+102,Spice Hub 102,Lucknow,Italian
+103,City Diner 103,Chennai,Chinese
+104,Spice Hub 104,Kolkata,Chinese
+105,Curry House 105,Ahmedabad,Italian
+106,Tandoori Nights 106,Jaipur,Fast Food
+107,Biryani Palace 107,Pune,Fast Food
+108,Food Junction 108,Mumbai,Indian
+109,Taste Town 109,Pune,Chinese
+110,Spice Hub 110,Ahmedabad,Indian
+111,City Diner 111,Pune,Chinese
+112,City Diner 112,Jaipur,Fast Food
+113,Spice Hub 113,Delhi,Fast Food
+114,City Diner 114,Chennai,Italian
+115,Food Junction 115,Mumbai,Italian
+116,Urban Bites 116,Pune,Fast Food
+117,Biryani Palace 117,Bangalore,Chinese
+118,Food Fiesta 118,Kolkata,Chinese
+119,Spice Hub 119,Lucknow,Chinese
+120,Taste Town 120,Bangalore,Indian
+121,City Diner 121,Ahmedabad,Indian
+122,Food Junction 122,Hyderabad,Fast Food
+123,Royal Kitchen 123,Delhi,Fast Food
+124,Royal Kitchen 124,Jaipur,Chinese
+125,Biryani Palace 125,Mumbai,Indian
+126,Taste Town 126,Hyderabad,Chinese
+127,Spice Hub 127,Bangalore,Fast Food
+128,Biryani Palace 128,Kolkata,Italian
+129,Urban Bites 129,Hyderabad,Fast Food
+130,Food Junction 130,Jaipur,Italian
+131,Curry House 131,Mumbai,Fast Food
+132,Tandoori Nights 132,Lucknow,Indian
+133,Taste Town 133,Chennai,Italian
+134,Curry House 134,Delhi,Chinese
+135,Taste Town 135,Jaipur,Italian
+136,Curry House 136,Ahmedabad,Fast Food
+137,Biryani Palace 137,Mumbai,Indian
+138,Taste Town 138,Pune,Indian
+139,Food Fiesta 139,Chennai,Chinese
+140,Spice Hub 140,Chennai,Indian
+141,Royal Kitchen 141,Ahmedabad,Chinese
+142,Food Fiesta 142,Pune,Indian
+143,Royal Kitchen 143,Mumbai,Fast Food
+144,Biryani Palace 144,Bangalore,Chinese
+145,City Diner 145,Delhi,Indian
+146,Taste Town 146,Hyderabad,Italian
+147,City Diner 147,Mumbai,Fast Food
+148,Food Fiesta 148,Lucknow,Fast Food
+149,City Diner 149,Pune,Fast Food
+150,Biryani Palace 150,Chennai,Italian
+151,Taste Town 151,Bangalore,Italian
+152,Tandoori Nights 152,Mumbai,Fast Food
+153,Curry House 153,Jaipur,Chinese
+154,Spice Hub 154,Mumbai,Fast Food
+155,Spice Hub 155,Jaipur,Chinese
+156,City Diner 156,Bangalore,Chinese
+157,Tandoori Nights 157,Mumbai,Fast Food
+158,Tandoori Nights 158,Hyderabad,Fast Food
+159,Curry House 159,Ahmedabad,Fast Food
+160,Urban Bites 160,Jaipur,Italian
+161,Taste Town 161,Ahmedabad,Italian
+162,City Diner 162,Lucknow,Indian
+163,Royal Kitchen 163,Chennai,Italian
+164,Urban Bites 164,Hyderabad,Fast Food
+165,Spice Hub 165,Chennai,Indian
+166,Food Junction 166,Delhi,Indian
+167,Biryani Palace 167,Bangalore,Fast Food
+168,Biryani Palace 168,Ahmedabad,Fast Food
+169,Taste Town 169,Delhi,Fast Food
+170,Urban Bites 170,Delhi,Italian
+171,Biryani Palace 171,Delhi,Chinese
+172,Tandoori Nights 172,Hyderabad,Chinese
+173,Urban Bites 173,Hyderabad,Chinese
+174,Spice Hub 174,Jaipur,Indian
+175,Food Fiesta 175,Ahmedabad,Italian
+176,Curry House 176,Pune,Chinese
+177,Curry House 177,Pune,Italian
+178,Spice Hub 178,Pune,Fast Food
+179,Urban Bites 179,Mumbai,Indian
+180,Spice Hub 180,Kolkata,Indian
+181,Taste Town 181,Jaipur,Fast Food
+182,City Diner 182,Mumbai,Italian
+183,Tandoori Nights 183,Jaipur,Indian
+184,Biryani Palace 184,Hyderabad,Indian
+185,Tandoori Nights 185,Delhi,Italian
+186,Food Fiesta 186,Mumbai,Italian
+187,Curry House 187,Ahmedabad,Fast Food
+188,Spice Hub 188,Ahmedabad,Italian
+189,Urban Bites 189,Hyderabad,Indian
+190,Urban Bites 190,Kolkata,Indian
+191,City Diner 191,Ahmedabad,Fast Food
+192,Food Junction 192,Lucknow,Indian
+193,Tandoori Nights 193,Bangalore,Fast Food
+194,Food Junction 194,Delhi,Indian
+195,Urban Bites 195,Hyderabad,Indian
+196,Tandoori Nights 196,Delhi,Chinese
+197,City Diner 197,Jaipur,Indian
+198,Biryani Palace 198,Pune,Italian
+199,Urban Bites 199,Hyderabad,Chinese
+200,Food Junction 200,Hyderabad,Chinese
+201,Royal Kitchen 201,Mumbai,Indian
+202,Taste Town 202,Bangalore,Indian
+203,Biryani Palace 203,Chennai,Italian
+204,Taste Town 204,Bangalore,Chinese
+205,City Diner 205,Hyderabad,Fast Food
+206,Food Junction 206,Pune,Chinese
+207,Spice Hub 207,Lucknow,Indian
+208,Royal Kitchen 208,Delhi,Fast Food
+209,Food Fiesta 209,Hyderabad,Indian
+210,Curry House 210,Pune,Italian
+211,Urban Bites 211,Ahmedabad,Italian
+212,Royal Kitchen 212,Kolkata,Italian
+213,Tandoori Nights 213,Ahmedabad,Fast Food
+214,Food Junction 214,Delhi,Indian
+215,Food Junction 215,Chennai,Fast Food
+216,Food Fiesta 216,Pune,Italian
+217,City Diner 217,Mumbai,Chinese
+218,Tandoori Nights 218,Ahmedabad,Fast Food
+219,Tandoori Nights 219,Jaipur,Chinese
+220,Tandoori Nights 220,Chennai,Fast Food
+221,Curry House 221,Chennai,Chinese
+222,Spice Hub 222,Mumbai,Indian
+223,Biryani Palace 223,Mumbai,Fast Food
+224,Curry House 224,Chennai,Indian
+225,Curry House 225,Jaipur,Indian
+226,Urban Bites 226,Lucknow,Fast Food
+227,Tandoori Nights 227,Mumbai,Fast Food
+228,Curry House 228,Ahmedabad,Indian
+229,Curry House 229,Mumbai,Indian
+230,Tandoori Nights 230,Hyderabad,Fast Food
+231,Taste Town 231,Kolkata,Italian
+232,Spice Hub 232,Bangalore,Indian
+233,Spice Hub 233,Jaipur,Italian
+234,Royal Kitchen 234,Lucknow,Chinese
+235,Curry House 235,Bangalore,Indian
+236,Taste Town 236,Delhi,Chinese
+237,Curry House 237,Jaipur,Italian
+238,Taste Town 238,Bangalore,Chinese
+239,Food Fiesta 239,Lucknow,Chinese
+240,Urban Bites 240,Hyderabad,Fast Food
+241,Urban Bites 241,Ahmedabad,Italian
+242,City Diner 242,Pune,Chinese
+243,Curry House 243,Lucknow,Italian
+244,Taste Town 244,Hyderabad,Chinese
+245,Royal Kitchen 245,Delhi,Chinese
+246,Urban Bites 246,Delhi,Fast Food
+247,Spice Hub 247,Pune,Fast Food
+248,Urban Bites 248,Jaipur,Chinese
+249,Urban Bites 249,Lucknow,Italian
+250,Urban Bites 250,Mumbai,Italian
+251,Curry House 251,Pune,Indian
+252,Tandoori Nights 252,Chennai,Chinese
+253,City Diner 253,Kolkata,Indian
+254,Biryani Palace 254,Jaipur,Indian
+255,Spice Hub 255,Delhi,Indian
+256,Spice Hub 256,Delhi,Chinese
+257,Curry House 257,Hyderabad,Fast Food
+258,Spice Hub 258,Delhi,Chinese
+259,Royal Kitchen 259,Hyderabad,Chinese
+260,Taste Town 260,Ahmedabad,Chinese
+261,Curry House 261,Lucknow,Chinese
+262,Urban Bites 262,Ahmedabad,Indian
+263,Curry House 263,Bangalore,Fast Food
+264,Biryani Palace 264,Delhi,Fast Food
+265,Food Junction 265,Delhi,Fast Food
+266,Curry House 266,Ahmedabad,Italian
+267,Curry House 267,Jaipur,Chinese
+268,Food Junction 268,Mumbai,Fast Food
+269,Curry House 269,Bangalore,Indian
+270,Food Fiesta 270,Delhi,Fast Food
+271,Spice Hub 271,Ahmedabad,Chinese
+272,Royal Kitchen 272,Chennai,Italian
+273,Spice Hub 273,Kolkata,Fast Food
+274,Spice Hub 274,Ahmedabad,Chinese
+275,Spice Hub 275,Kolkata,Fast Food
+276,Spice Hub 276,Hyderabad,Indian
+277,Food Fiesta 277,Lucknow,Indian
+278,City Diner 278,Chennai,Indian
+279,Spice Hub 279,Hyderabad,Fast Food
+280,Royal Kitchen 280,Pune,Indian
+281,Taste Town 281,Ahmedabad,Fast Food
+282,Taste Town 282,Kolkata,Indian
+283,Urban Bites 283,Lucknow,Italian
+284,Spice Hub 284,Mumbai,Fast Food
+285,Food Junction 285,Delhi,Fast Food
+286,City Diner 286,Kolkata,Chinese
+287,Food Junction 287,Kolkata,Italian
+288,Urban Bites 288,Delhi,Indian
+289,Tandoori Nights 289,Kolkata,Indian
+290,Urban Bites 290,Pune,Fast Food
+291,Tandoori Nights 291,Bangalore,Fast Food
+292,Curry House 292,Chennai,Italian
+293,Biryani Palace 293,Bangalore,Italian
+294,Tandoori Nights 294,Delhi,Chinese
+295,Taste Town 295,Mumbai,Fast Food
+296,Food Junction 296,Mumbai,Italian
+297,Food Junction 297,Chennai,Chinese
+298,Urban Bites 298,Pune,Indian
+299,Biryani Palace 299,Mumbai,Italian
+300,Tandoori Nights 300,Lucknow,Indian
+301,Biryani Palace 301,Ahmedabad,Fast Food
+302,Food Junction 302,Lucknow,Indian
+303,Biryani Palace 303,Ahmedabad,Fast Food
+304,Royal Kitchen 304,Jaipur,Fast Food
+305,Biryani Palace 305,Jaipur,Fast Food
+306,Food Junction 306,Jaipur,Italian
+307,Spice Hub 307,Mumbai,Chinese
+308,Biryani Palace 308,Jaipur,Indian
+309,Food Junction 309,Jaipur,Italian
+310,Spice Hub 310,Delhi,Indian
+311,Biryani Palace 311,Lucknow,Chinese
+312,Biryani Palace 312,Chennai,Fast Food
+313,Food Junction 313,Lucknow,Chinese
+314,Food Fiesta 314,Pune,Fast Food
+315,Food Fiesta 315,Jaipur,Indian
+316,City Diner 316,Lucknow,Indian
+317,Urban Bites 317,Jaipur,Chinese
+318,Royal Kitchen 318,Hyderabad,Fast Food
+319,Urban Bites 319,Pune,Indian
+320,Urban Bites 320,Ahmedabad,Fast Food
+321,Spice Hub 321,Chennai,Indian
+322,Tandoori Nights 322,Mumbai,Italian
+323,Biryani Palace 323,Bangalore,Fast Food
+324,Royal Kitchen 324,Pune,Italian
+325,Curry House 325,Chennai,Chinese
+326,Tandoori Nights 326,Ahmedabad,Chinese
+327,City Diner 327,Ahmedabad,Indian
+328,City Diner 328,Bangalore,Italian
+329,Food Junction 329,Hyderabad,Indian
+330,Urban Bites 330,Lucknow,Fast Food
+331,Tandoori Nights 331,Mumbai,Chinese
+332,Urban Bites 332,Jaipur,Fast Food
+333,City Diner 333,Bangalore,Indian
+334,Curry House 334,Delhi,Italian
+335,Urban Bites 335,Bangalore,Italian
+336,Taste Town 336,Ahmedabad,Indian
+337,Food Fiesta 337,Bangalore,Italian
+338,City Diner 338,Hyderabad,Chinese
+339,Biryani Palace 339,Chennai,Italian
+340,City Diner 340,Lucknow,Fast Food
+341,Taste Town 341,Bangalore,Indian
+342,City Diner 342,Hyderabad,Fast Food
+343,Urban Bites 343,Jaipur,Chinese
+344,Spice Hub 344,Mumbai,Indian
+345,Spice Hub 345,Lucknow,Indian
+346,City Diner 346,Kolkata,Fast Food
+347,Spice Hub 347,Kolkata,Italian
+348,Royal Kitchen 348,Chennai,Fast Food
+349,Biryani Palace 349,Mumbai,Indian
+350,Royal Kitchen 350,Jaipur,Fast Food
+351,Taste Town 351,Hyderabad,Chinese
+352,Food Junction 352,Chennai,Chinese
+353,Food Junction 353,Pune,Italian
+354,Urban Bites 354,Hyderabad,Italian
+355,Curry House 355,Bangalore,Indian
+356,Food Junction 356,Hyderabad,Italian
+357,Taste Town 357,Mumbai,Indian
+358,Curry House 358,Ahmedabad,Fast Food
+359,Taste Town 359,Pune,Indian
+360,Biryani Palace 360,Kolkata,Italian
+361,Royal Kitchen 361,Pune,Indian
+362,Tandoori Nights 362,Mumbai,Chinese
+363,Urban Bites 363,Delhi,Indian
+364,Taste Town 364,Hyderabad,Fast Food
+365,Royal Kitchen 365,Bangalore,Indian
+366,Food Fiesta 366,Lucknow,Indian
+367,City Diner 367,Hyderabad,Indian
+368,Taste Town 368,Bangalore,Italian
+369,Taste Town 369,Pune,Chinese
+370,Royal Kitchen 370,Pune,Fast Food
+371,Curry House 371,Delhi,Fast Food
+372,Taste Town 372,Mumbai,Fast Food
+373,Urban Bites 373,Jaipur,Fast Food
+374,Taste Town 374,Pune,Italian
+375,Taste Town 375,Kolkata,Fast Food
+376,Food Fiesta 376,Delhi,Fast Food
+377,Curry House 377,Kolkata,Italian
+378,Spice Hub 378,Kolkata,Fast Food
+379,City Diner 379,Ahmedabad,Fast Food
+380,Biryani Palace 380,Chennai,Indian
+381,Tandoori Nights 381,Kolkata,Chinese
+382,Food Junction 382,Chennai,Chinese
+383,Biryani Palace 383,Hyderabad,Italian
+384,Urban Bites 384,Lucknow,Italian
+385,Food Fiesta 385,Delhi,Chinese
+386,City Diner 386,Ahmedabad,Fast Food
+387,Spice Hub 387,Chennai,Italian
+388,Tandoori Nights 388,Chennai,Indian
+389,Food Fiesta 389,Delhi,Indian
+390,Taste Town 390,Kolkata,Chinese
+391,Food Fiesta 391,Pune,Italian
+392,Biryani Palace 392,Ahmedabad,Italian
+393,Royal Kitchen 393,Ahmedabad,Chinese
+394,Food Fiesta 394,Jaipur,Fast Food
+395,Tandoori Nights 395,Hyderabad,Chinese
+396,Food Fiesta 396,Ahmedabad,Fast Food
+397,Food Junction 397,Jaipur,Indian
+398,Spice Hub 398,Hyderabad,Italian
+399,Taste Town 399,Mumbai,Indian
+400,Biryani Palace 400,Hyderabad,Indian

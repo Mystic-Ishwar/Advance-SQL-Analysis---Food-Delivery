@@ -1,0 +1,2001 @@
+menu_id,restaurant_id,item_name,price
+1,1,Pasta,261
+2,1,Burger,442
+3,1,Momos,230
+4,1,Biryani,197
+5,1,Paneer Tikka,560
+6,2,Momos,133
+7,2,Roll,191
+8,2,Noodles,123
+9,2,Pasta,534
+10,2,Burger,467
+11,3,Burger,403
+12,3,Momos,210
+13,3,Pasta,267
+14,3,Pasta,545
+15,3,Pasta,452
+16,4,Paneer Tikka,588
+17,4,Roll,496
+18,4,Burger,101
+19,4,Roll,593
+20,4,Fried Rice,517
+21,5,Momos,574
+22,5,Burger,210
+23,5,Pizza,494
+24,5,Sandwich,337
+25,5,Pizza,559
+26,6,Pasta,238
+27,6,Momos,598
+28,6,Burger,505
+29,6,Paneer Tikka,532
+30,6,Noodles,398
+31,7,Momos,399
+32,7,Biryani,192
+33,7,Fried Rice,150
+34,7,Roll,249
+35,7,Noodles,202
+36,8,Roll,365
+37,8,Pizza,106
+38,8,Noodles,520
+39,8,Biryani,580
+40,8,Biryani,488
+41,9,Biryani,377
+42,9,Biryani,543
+43,9,Sandwich,262
+44,9,Paneer Tikka,503
+45,9,Roll,346
+46,10,Pizza,290
+47,10,Pizza,338
+48,10,Noodles,343
+49,10,Burger,110
+50,10,Fried Rice,344
+51,11,Burger,226
+52,11,Momos,164
+53,11,Burger,302
+54,11,Pizza,218
+55,11,Burger,253
+56,12,Roll,289
+57,12,Pizza,552
+58,12,Pizza,241
+59,12,Noodles,468
+60,12,Pasta,220
+61,13,Momos,480
+62,13,Roll,179
+63,13,Sandwich,128
+64,13,Paneer Tikka,325
+65,13,Burger,106
+66,14,Fried Rice,420
+67,14,Paneer Tikka,252
+68,14,Sandwich,126
+69,14,Sandwich,262
+70,14,Paneer Tikka,422
+71,15,Burger,186
+72,15,Noodles,285
+73,15,Biryani,134
+74,15,Pasta,413
+75,15,Fried Rice,302
+76,16,Momos,377
+77,16,Roll,460
+78,16,Noodles,486
+79,16,Momos,491
+80,16,Fried Rice,287
+81,17,Sandwich,172
+82,17,Roll,207
+83,17,Paneer Tikka,210
+84,17,Pizza,485
+85,17,Pizza,573
+86,18,Pasta,562
+87,18,Burger,425
+88,18,Burger,142
+89,18,Sandwich,370
+90,18,Roll,137
+91,19,Pasta,283
+92,19,Momos,505
+93,19,Momos,423
+94,19,Pasta,193
+95,19,Paneer Tikka,138
+96,20,Sandwich,155
+97,20,Burger,346
+98,20,Fried Rice,306
+99,20,Pasta,398
+100,20,Fried Rice,171
+101,21,Roll,221
+102,21,Paneer Tikka,267
+103,21,Biryani,591
+104,21,Momos,499
+105,21,Momos,151
+106,22,Noodles,325
+107,22,Biryani,396
+108,22,Sandwich,177
+109,22,Noodles,127
+110,22,Pasta,200
+111,23,Sandwich,554
+112,23,Momos,200
+113,23,Burger,304
+114,23,Fried Rice,344
+115,23,Momos,548
+116,24,Paneer Tikka,213
+117,24,Biryani,499
+118,24,Pizza,107
+119,24,Pasta,507
+120,24,Sandwich,408
+121,25,Biryani,354
+122,25,Noodles,301
+123,25,Pizza,358
+124,25,Pizza,150
+125,25,Fried Rice,186
+126,26,Biryani,450
+127,26,Paneer Tikka,258
+128,26,Paneer Tikka,572
+129,26,Noodles,495
+130,26,Momos,424
+131,27,Biryani,293
+132,27,Paneer Tikka,117
+133,27,Burger,483
+134,27,Biryani,290
+135,27,Paneer Tikka,264
+136,28,Paneer Tikka,241
+137,28,Sandwich,462
+138,28,Paneer Tikka,189
+139,28,Pasta,456
+140,28,Paneer Tikka,278
+141,29,Fried Rice,538
+142,29,Roll,493
+143,29,Fried Rice,356
+144,29,Paneer Tikka,117
+145,29,Fried Rice,488
+146,30,Pizza,271
+147,30,Burger,208
+148,30,Roll,577
+149,30,Fried Rice,191
+150,30,Momos,489
+151,31,Roll,472
+152,31,Noodles,355
+153,31,Momos,189
+154,31,Paneer Tikka,288
+155,31,Fried Rice,591
+156,32,Burger,185
+157,32,Pasta,413
+158,32,Fried Rice,505
+159,32,Sandwich,599
+160,32,Sandwich,450
+161,33,Momos,198
+162,33,Pizza,264
+163,33,Burger,319
+164,33,Biryani,559
+165,33,Sandwich,258
+166,34,Paneer Tikka,241
+167,34,Pizza,384
+168,34,Biryani,331
+169,34,Pizza,426
+170,34,Burger,499
+171,35,Burger,372
+172,35,Roll,561
+173,35,Biryani,222
+174,35,Burger,409
+175,35,Sandwich,442
+176,36,Fried Rice,204
+177,36,Biryani,525
+178,36,Pizza,114
+179,36,Noodles,420
+180,36,Noodles,459
+181,37,Pizza,168
+182,37,Fried Rice,330
+183,37,Paneer Tikka,599
+184,37,Fried Rice,525
+185,37,Burger,360
+186,38,Noodles,142
+187,38,Sandwich,213
+188,38,Pasta,389
+189,38,Roll,400
+190,38,Biryani,368
+191,39,Noodles,486
+192,39,Roll,435
+193,39,Roll,340
+194,39,Noodles,448
+195,39,Noodles,150
+196,40,Momos,433
+197,40,Noodles,555
+198,40,Pasta,190
+199,40,Momos,483
+200,40,Roll,185
+201,41,Paneer Tikka,454
+202,41,Noodles,577
+203,41,Paneer Tikka,303
+204,41,Biryani,565
+205,41,Pasta,310
+206,42,Pasta,387
+207,42,Momos,269
+208,42,Biryani,574
+209,42,Biryani,498
+210,42,Pasta,247
+211,43,Pizza,424
+212,43,Pizza,453
+213,43,Biryani,159
+214,43,Noodles,484
+215,43,Burger,167
+216,44,Paneer Tikka,302
+217,44,Burger,163
+218,44,Roll,126
+219,44,Pasta,338
+220,44,Paneer Tikka,562
+221,45,Noodles,222
+222,45,Pasta,340
+223,45,Biryani,426
+224,45,Roll,215
+225,45,Roll,599
+226,46,Noodles,368
+227,46,Paneer Tikka,513
+228,46,Sandwich,396
+229,46,Roll,459
+230,46,Noodles,167
+231,47,Momos,542
+232,47,Pasta,561
+233,47,Burger,166
+234,47,Momos,178
+235,47,Roll,104
+236,48,Momos,229
+237,48,Momos,380
+238,48,Pasta,467
+239,48,Burger,277
+240,48,Sandwich,379
+241,49,Roll,195
+242,49,Biryani,266
+243,49,Pasta,461
+244,49,Biryani,445
+245,49,Pasta,547
+246,50,Roll,352
+247,50,Biryani,164
+248,50,Biryani,123
+249,50,Momos,271
+250,50,Biryani,307
+251,51,Sandwich,467
+252,51,Noodles,537
+253,51,Pasta,159
+254,51,Burger,144
+255,51,Burger,246
+256,52,Sandwich,125
+257,52,Pizza,422
+258,52,Noodles,514
+259,52,Roll,289
+260,52,Fried Rice,222
+261,53,Biryani,231
+262,53,Biryani,183
+263,53,Fried Rice,242
+264,53,Fried Rice,285
+265,53,Burger,139
+266,54,Biryani,532
+267,54,Pasta,301
+268,54,Sandwich,207
+269,54,Roll,106
+270,54,Sandwich,303
+271,55,Paneer Tikka,588
+272,55,Fried Rice,451
+273,55,Fried Rice,554
+274,55,Sandwich,529
+275,55,Roll,408
+276,56,Burger,431
+277,56,Noodles,483
+278,56,Pizza,515
+279,56,Burger,569
+280,56,Paneer Tikka,308
+281,57,Fried Rice,508
+282,57,Paneer Tikka,194
+283,57,Noodles,426
+284,57,Biryani,493
+285,57,Roll,145
+286,58,Noodles,115
+287,58,Paneer Tikka,119
+288,58,Sandwich,102
+289,58,Paneer Tikka,203
+290,58,Momos,414
+291,59,Sandwich,503
+292,59,Noodles,524
+293,59,Burger,406
+294,59,Biryani,569
+295,59,Biryani,450
+296,60,Pasta,587
+297,60,Roll,459
+298,60,Fried Rice,501
+299,60,Biryani,422
+300,60,Noodles,269
+301,61,Burger,297
+302,61,Noodles,108
+303,61,Sandwich,113
+304,61,Paneer Tikka,108
+305,61,Pizza,527
+306,62,Pasta,579
+307,62,Biryani,109
+308,62,Paneer Tikka,570
+309,62,Roll,327
+310,62,Pasta,498
+311,63,Pizza,209
+312,63,Biryani,489
+313,63,Paneer Tikka,388
+314,63,Roll,455
+315,63,Fried Rice,535
+316,64,Fried Rice,132
+317,64,Biryani,200
+318,64,Pizza,165
+319,64,Roll,576
+320,64,Noodles,277
+321,65,Fried Rice,317
+322,65,Noodles,311
+323,65,Fried Rice,438
+324,65,Biryani,138
+325,65,Sandwich,514
+326,66,Biryani,422
+327,66,Noodles,424
+328,66,Burger,545
+329,66,Momos,406
+330,66,Fried Rice,578
+331,67,Biryani,583
+332,67,Fried Rice,393
+333,67,Noodles,291
+334,67,Biryani,438
+335,67,Fried Rice,265
+336,68,Momos,380
+337,68,Noodles,585
+338,68,Paneer Tikka,145
+339,68,Paneer Tikka,197
+340,68,Sandwich,472
+341,69,Roll,517
+342,69,Biryani,210
+343,69,Fried Rice,345
+344,69,Sandwich,102
+345,69,Burger,253
+346,70,Pasta,361
+347,70,Paneer Tikka,136
+348,70,Noodles,383
+349,70,Roll,165
+350,70,Fried Rice,264
+351,71,Paneer Tikka,343
+352,71,Roll,174
+353,71,Noodles,212
+354,71,Biryani,293
+355,71,Roll,288
+356,72,Roll,416
+357,72,Momos,482
+358,72,Burger,254
+359,72,Sandwich,358
+360,72,Fried Rice,430
+361,73,Burger,176
+362,73,Sandwich,355
+363,73,Burger,116
+364,73,Paneer Tikka,435
+365,73,Paneer Tikka,476
+366,74,Pizza,204
+367,74,Paneer Tikka,468
+368,74,Fried Rice,320
+369,74,Sandwich,296
+370,74,Paneer Tikka,132
+371,75,Sandwich,193
+372,75,Momos,451
+373,75,Biryani,596
+374,75,Pasta,151
+375,75,Paneer Tikka,502
+376,76,Fried Rice,212
+377,76,Pasta,297
+378,76,Roll,281
+379,76,Roll,289
+380,76,Pasta,375
+381,77,Pasta,582
+382,77,Biryani,231
+383,77,Momos,226
+384,77,Pizza,511
+385,77,Pizza,203
+386,78,Roll,323
+387,78,Sandwich,490
+388,78,Burger,264
+389,78,Biryani,582
+390,78,Pizza,319
+391,79,Pizza,263
+392,79,Pasta,514
+393,79,Sandwich,220
+394,79,Fried Rice,479
+395,79,Roll,393
+396,80,Biryani,515
+397,80,Noodles,185
+398,80,Sandwich,574
+399,80,Pizza,600
+400,80,Burger,152
+401,81,Noodles,373
+402,81,Noodles,501
+403,81,Pizza,468
+404,81,Noodles,203
+405,81,Sandwich,472
+406,82,Biryani,479
+407,82,Burger,312
+408,82,Pizza,528
+409,82,Fried Rice,338
+410,82,Sandwich,331
+411,83,Momos,427
+412,83,Biryani,321
+413,83,Noodles,294
+414,83,Roll,586
+415,83,Pizza,394
+416,84,Paneer Tikka,438
+417,84,Paneer Tikka,151
+418,84,Pizza,286
+419,84,Fried Rice,279
+420,84,Paneer Tikka,344
+421,85,Sandwich,570
+422,85,Biryani,429
+423,85,Biryani,521
+424,85,Pasta,513
+425,85,Biryani,159
+426,86,Burger,393
+427,86,Pasta,349
+428,86,Fried Rice,228
+429,86,Noodles,145
+430,86,Biryani,497
+431,87,Roll,492
+432,87,Momos,172
+433,87,Noodles,596
+434,87,Biryani,149
+435,87,Roll,499
+436,88,Noodles,592
+437,88,Momos,313
+438,88,Fried Rice,533
+439,88,Roll,384
+440,88,Fried Rice,179
+441,89,Momos,335
+442,89,Momos,216
+443,89,Fried Rice,206
+444,89,Momos,544
+445,89,Fried Rice,165
+446,90,Momos,170
+447,90,Paneer Tikka,598
+448,90,Noodles,118
+449,90,Burger,464
+450,90,Burger,308
+451,91,Fried Rice,535
+452,91,Burger,356
+453,91,Sandwich,396
+454,91,Sandwich,425
+455,91,Momos,251
+456,92,Momos,304
+457,92,Paneer Tikka,446
+458,92,Fried Rice,229
+459,92,Sandwich,140
+460,92,Burger,581
+461,93,Pasta,261
+462,93,Pizza,435
+463,93,Fried Rice,127
+464,93,Burger,426
+465,93,Paneer Tikka,264
+466,94,Biryani,171
+467,94,Paneer Tikka,565
+468,94,Biryani,545
+469,94,Noodles,274
+470,94,Burger,215
+471,95,Biryani,235
+472,95,Paneer Tikka,586
+473,95,Noodles,340
+474,95,Paneer Tikka,583
+475,95,Sandwich,498
+476,96,Roll,338
+477,96,Noodles,108
+478,96,Sandwich,329
+479,96,Sandwich,574
+480,96,Momos,318
+481,97,Roll,211
+482,97,Roll,287
+483,97,Paneer Tikka,187
+484,97,Pasta,436
+485,97,Roll,514
+486,98,Sandwich,382
+487,98,Fried Rice,418
+488,98,Momos,111
+489,98,Biryani,482
+490,98,Pizza,291
+491,99,Burger,433
+492,99,Sandwich,133
+493,99,Fried Rice,421
+494,99,Pizza,146
+495,99,Momos,572
+496,100,Fried Rice,217
+497,100,Pizza,270
+498,100,Pasta,224
+499,100,Fried Rice,220
+500,100,Noodles,225
+501,101,Momos,300
+502,101,Roll,118
+503,101,Burger,233
+504,101,Noodles,355
+505,101,Pizza,349
+506,102,Paneer Tikka,243
+507,102,Pizza,529
+508,102,Burger,567
+509,102,Fried Rice,349
+510,102,Fried Rice,374
+511,103,Roll,235
+512,103,Biryani,319
+513,103,Paneer Tikka,186
+514,103,Roll,484
+515,103,Fried Rice,135
+516,104,Momos,529
+517,104,Sandwich,244
+518,104,Sandwich,556
+519,104,Fried Rice,203
+520,104,Fried Rice,296
+521,105,Fried Rice,187
+522,105,Sandwich,285
+523,105,Noodles,379
+524,105,Pasta,213
+525,105,Pasta,270
+526,106,Burger,163
+527,106,Pasta,548
+528,106,Biryani,167
+529,106,Momos,359
+530,106,Burger,295
+531,107,Pasta,166
+532,107,Fried Rice,341
+533,107,Sandwich,149
+534,107,Burger,299
+535,107,Pasta,294
+536,108,Pizza,482
+537,108,Roll,555
+538,108,Pasta,143
+539,108,Momos,233
+540,108,Noodles,177
+541,109,Roll,520
+542,109,Fried Rice,598
+543,109,Pizza,396
+544,109,Sandwich,143
+545,109,Momos,492
+546,110,Burger,567
+547,110,Biryani,368
+548,110,Fried Rice,580
+549,110,Sandwich,158
+550,110,Biryani,108
+551,111,Roll,515
+552,111,Burger,504
+553,111,Momos,525
+554,111,Pizza,256
+555,111,Burger,313
+556,112,Momos,188
+557,112,Momos,406
+558,112,Roll,233
+559,112,Pasta,519
+560,112,Burger,111
+561,113,Roll,196
+562,113,Biryani,188
+563,113,Pizza,425
+564,113,Fried Rice,124
+565,113,Noodles,156
+566,114,Roll,185
+567,114,Biryani,100
+568,114,Burger,565
+569,114,Biryani,187
+570,114,Paneer Tikka,392
+571,115,Biryani,598
+572,115,Pasta,580
+573,115,Burger,361
+574,115,Sandwich,351
+575,115,Burger,585
+576,116,Pasta,355
+577,116,Noodles,337
+578,116,Momos,498
+579,116,Fried Rice,400
+580,116,Fried Rice,410
+581,117,Sandwich,313
+582,117,Biryani,524
+583,117,Fried Rice,338
+584,117,Sandwich,353
+585,117,Burger,196
+586,118,Fried Rice,198
+587,118,Pizza,534
+588,118,Fried Rice,338
+589,118,Burger,491
+590,118,Pasta,233
+591,119,Momos,224
+592,119,Sandwich,467
+593,119,Paneer Tikka,165
+594,119,Pasta,402
+595,119,Burger,361
+596,120,Roll,519
+597,120,Fried Rice,516
+598,120,Sandwich,479
+599,120,Noodles,382
+600,120,Noodles,563
+601,121,Noodles,370
+602,121,Momos,600
+603,121,Paneer Tikka,588
+604,121,Biryani,367
+605,121,Biryani,275
+606,122,Noodles,241
+607,122,Roll,263
+608,122,Roll,294
+609,122,Noodles,224
+610,122,Roll,414
+611,123,Pizza,435
+612,123,Sandwich,184
+613,123,Fried Rice,381
+614,123,Roll,181
+615,123,Momos,547
+616,124,Roll,141
+617,124,Sandwich,344
+618,124,Fried Rice,262
+619,124,Pizza,519
+620,124,Momos,365
+621,125,Biryani,213
+622,125,Pasta,281
+623,125,Fried Rice,376
+624,125,Momos,362
+625,125,Momos,187
+626,126,Pasta,425
+627,126,Biryani,400
+628,126,Biryani,205
+629,126,Momos,116
+630,126,Roll,425
+631,127,Paneer Tikka,196
+632,127,Sandwich,310
+633,127,Fried Rice,448
+634,127,Burger,261
+635,127,Pasta,164
+636,128,Biryani,558
+637,128,Paneer Tikka,383
+638,128,Sandwich,188
+639,128,Momos,160
+640,128,Pizza,521
+641,129,Roll,150
+642,129,Burger,417
+643,129,Sandwich,191
+644,129,Pizza,379
+645,129,Pizza,171
+646,130,Burger,308
+647,130,Noodles,197
+648,130,Fried Rice,530
+649,130,Sandwich,561
+650,130,Sandwich,502
+651,131,Sandwich,407
+652,131,Sandwich,339
+653,131,Roll,233
+654,131,Pizza,272
+655,131,Fried Rice,132
+656,132,Sandwich,390
+657,132,Paneer Tikka,243
+658,132,Paneer Tikka,269
+659,132,Pizza,254
+660,132,Pasta,232
+661,133,Burger,175
+662,133,Pasta,195
+663,133,Roll,295
+664,133,Pizza,572
+665,133,Biryani,306
+666,134,Pasta,465
+667,134,Noodles,277
+668,134,Roll,370
+669,134,Pasta,303
+670,134,Pizza,574
+671,135,Roll,294
+672,135,Fried Rice,216
+673,135,Burger,152
+674,135,Biryani,452
+675,135,Paneer Tikka,140
+676,136,Burger,391
+677,136,Fried Rice,281
+678,136,Paneer Tikka,159
+679,136,Pasta,414
+680,136,Pasta,211
+681,137,Biryani,338
+682,137,Biryani,371
+683,137,Pasta,336
+684,137,Noodles,347
+685,137,Biryani,300
+686,138,Burger,106
+687,138,Pizza,188
+688,138,Burger,219
+689,138,Fried Rice,261
+690,138,Pizza,313
+691,139,Sandwich,171
+692,139,Burger,239
+693,139,Roll,282
+694,139,Biryani,376
+695,139,Fried Rice,353
+696,140,Pasta,244
+697,140,Noodles,588
+698,140,Burger,286
+699,140,Sandwich,114
+700,140,Roll,503
+701,141,Biryani,218
+702,141,Burger,386
+703,141,Momos,250
+704,141,Pasta,517
+705,141,Sandwich,250
+706,142,Momos,135
+707,142,Biryani,163
+708,142,Pasta,554
+709,142,Roll,102
+710,142,Fried Rice,167
+711,143,Momos,559
+712,143,Pasta,481
+713,143,Burger,200
+714,143,Pasta,530
+715,143,Biryani,521
+716,144,Pasta,546
+717,144,Biryani,373
+718,144,Biryani,227
+719,144,Roll,246
+720,144,Momos,415
+721,145,Paneer Tikka,219
+722,145,Roll,176
+723,145,Paneer Tikka,400
+724,145,Roll,489
+725,145,Pasta,572
+726,146,Pasta,297
+727,146,Paneer Tikka,357
+728,146,Pasta,595
+729,146,Pizza,391
+730,146,Momos,165
+731,147,Momos,198
+732,147,Pasta,347
+733,147,Biryani,340
+734,147,Pizza,593
+735,147,Fried Rice,559
+736,148,Burger,354
+737,148,Pasta,328
+738,148,Pasta,358
+739,148,Momos,303
+740,148,Paneer Tikka,157
+741,149,Burger,184
+742,149,Biryani,413
+743,149,Roll,227
+744,149,Noodles,419
+745,149,Paneer Tikka,242
+746,150,Burger,118
+747,150,Sandwich,328
+748,150,Pizza,497
+749,150,Paneer Tikka,553
+750,150,Pasta,542
+751,151,Paneer Tikka,208
+752,151,Roll,109
+753,151,Burger,237
+754,151,Burger,221
+755,151,Pasta,467
+756,152,Biryani,444
+757,152,Sandwich,393
+758,152,Noodles,429
+759,152,Pasta,356
+760,152,Biryani,241
+761,153,Fried Rice,299
+762,153,Roll,108
+763,153,Paneer Tikka,492
+764,153,Pizza,548
+765,153,Momos,477
+766,154,Paneer Tikka,251
+767,154,Burger,253
+768,154,Pizza,597
+769,154,Biryani,342
+770,154,Pizza,283
+771,155,Biryani,436
+772,155,Roll,543
+773,155,Pasta,412
+774,155,Burger,593
+775,155,Paneer Tikka,292
+776,156,Roll,123
+777,156,Pasta,425
+778,156,Momos,563
+779,156,Pasta,423
+780,156,Noodles,345
+781,157,Roll,588
+782,157,Paneer Tikka,169
+783,157,Pizza,284
+784,157,Sandwich,413
+785,157,Biryani,243
+786,158,Roll,195
+787,158,Pasta,329
+788,158,Sandwich,199
+789,158,Paneer Tikka,427
+790,158,Pizza,198
+791,159,Paneer Tikka,195
+792,159,Sandwich,126
+793,159,Pizza,124
+794,159,Pasta,558
+795,159,Pasta,321
+796,160,Biryani,409
+797,160,Paneer Tikka,369
+798,160,Pizza,264
+799,160,Paneer Tikka,568
+800,160,Roll,296
+801,161,Noodles,452
+802,161,Biryani,315
+803,161,Burger,116
+804,161,Fried Rice,228
+805,161,Paneer Tikka,354
+806,162,Noodles,144
+807,162,Fried Rice,520
+808,162,Roll,172
+809,162,Burger,142
+810,162,Burger,193
+811,163,Sandwich,273
+812,163,Paneer Tikka,476
+813,163,Burger,327
+814,163,Pizza,560
+815,163,Sandwich,230
+816,164,Biryani,293
+817,164,Pasta,320
+818,164,Biryani,478
+819,164,Fried Rice,298
+820,164,Pizza,457
+821,165,Sandwich,413
+822,165,Paneer Tikka,267
+823,165,Biryani,128
+824,165,Pizza,235
+825,165,Burger,393
+826,166,Biryani,321
+827,166,Biryani,380
+828,166,Roll,474
+829,166,Biryani,593
+830,166,Burger,133
+831,167,Noodles,428
+832,167,Pizza,418
+833,167,Burger,371
+834,167,Burger,485
+835,167,Pasta,330
+836,168,Pasta,125
+837,168,Burger,434
+838,168,Biryani,214
+839,168,Biryani,380
+840,168,Burger,331
+841,169,Biryani,317
+842,169,Biryani,431
+843,169,Pasta,287
+844,169,Burger,368
+845,169,Momos,282
+846,170,Paneer Tikka,596
+847,170,Burger,514
+848,170,Fried Rice,482
+849,170,Burger,212
+850,170,Sandwich,392
+851,171,Paneer Tikka,598
+852,171,Biryani,453
+853,171,Sandwich,243
+854,171,Pasta,575
+855,171,Fried Rice,433
+856,172,Noodles,558
+857,172,Pizza,103
+858,172,Roll,368
+859,172,Momos,305
+860,172,Momos,301
+861,173,Roll,390
+862,173,Roll,421
+863,173,Pizza,166
+864,173,Pasta,242
+865,173,Fried Rice,123
+866,174,Noodles,199
+867,174,Paneer Tikka,425
+868,174,Pizza,594
+869,174,Sandwich,537
+870,174,Burger,178
+871,175,Burger,596
+872,175,Pasta,572
+873,175,Pasta,332
+874,175,Pasta,564
+875,175,Pasta,587
+876,176,Pasta,390
+877,176,Pasta,260
+878,176,Roll,220
+879,176,Roll,163
+880,176,Fried Rice,229
+881,177,Pizza,124
+882,177,Pasta,161
+883,177,Burger,417
+884,177,Biryani,124
+885,177,Noodles,172
+886,178,Momos,103
+887,178,Pasta,577
+888,178,Sandwich,116
+889,178,Paneer Tikka,106
+890,178,Pizza,192
+891,179,Pizza,120
+892,179,Burger,272
+893,179,Sandwich,525
+894,179,Roll,330
+895,179,Noodles,481
+896,180,Sandwich,384
+897,180,Pizza,561
+898,180,Momos,505
+899,180,Momos,507
+900,180,Roll,227
+901,181,Biryani,259
+902,181,Momos,311
+903,181,Sandwich,111
+904,181,Noodles,497
+905,181,Roll,466
+906,182,Sandwich,324
+907,182,Biryani,470
+908,182,Paneer Tikka,519
+909,182,Pasta,564
+910,182,Pasta,513
+911,183,Pasta,133
+912,183,Fried Rice,523
+913,183,Biryani,355
+914,183,Burger,150
+915,183,Fried Rice,478
+916,184,Burger,552
+917,184,Momos,262
+918,184,Roll,441
+919,184,Biryani,505
+920,184,Pasta,202
+921,185,Roll,369
+922,185,Fried Rice,207
+923,185,Fried Rice,181
+924,185,Paneer Tikka,528
+925,185,Sandwich,455
+926,186,Pasta,301
+927,186,Fried Rice,291
+928,186,Noodles,235
+929,186,Biryani,595
+930,186,Fried Rice,159
+931,187,Fried Rice,414
+932,187,Pasta,476
+933,187,Roll,175
+934,187,Noodles,517
+935,187,Pasta,582
+936,188,Momos,369
+937,188,Noodles,390
+938,188,Biryani,214
+939,188,Sandwich,205
+940,188,Noodles,447
+941,189,Noodles,434
+942,189,Sandwich,261
+943,189,Pasta,288
+944,189,Noodles,102
+945,189,Burger,371
+946,190,Roll,295
+947,190,Paneer Tikka,245
+948,190,Fried Rice,174
+949,190,Pasta,448
+950,190,Roll,159
+951,191,Pizza,394
+952,191,Roll,418
+953,191,Pizza,490
+954,191,Pizza,517
+955,191,Pasta,214
+956,192,Fried Rice,530
+957,192,Burger,212
+958,192,Fried Rice,310
+959,192,Paneer Tikka,499
+960,192,Momos,229
+961,193,Sandwich,299
+962,193,Burger,568
+963,193,Momos,573
+964,193,Fried Rice,485
+965,193,Sandwich,462
+966,194,Roll,297
+967,194,Pizza,283
+968,194,Roll,558
+969,194,Pizza,279
+970,194,Sandwich,244
+971,195,Pizza,316
+972,195,Noodles,502
+973,195,Sandwich,321
+974,195,Sandwich,173
+975,195,Biryani,504
+976,196,Fried Rice,405
+977,196,Biryani,304
+978,196,Pasta,365
+979,196,Fried Rice,116
+980,196,Pasta,369
+981,197,Pizza,139
+982,197,Roll,458
+983,197,Biryani,107
+984,197,Sandwich,503
+985,197,Fried Rice,340
+986,198,Paneer Tikka,188
+987,198,Roll,269
+988,198,Biryani,531
+989,198,Burger,496
+990,198,Noodles,530
+991,199,Pizza,112
+992,199,Burger,102
+993,199,Sandwich,212
+994,199,Roll,263
+995,199,Fried Rice,409
+996,200,Fried Rice,149
+997,200,Pasta,247
+998,200,Noodles,588
+999,200,Momos,139
+1000,200,Roll,305
+1001,201,Fried Rice,340
+1002,201,Fried Rice,189
+1003,201,Roll,259
+1004,201,Burger,244
+1005,201,Paneer Tikka,108
+1006,202,Momos,383
+1007,202,Roll,208
+1008,202,Pasta,498
+1009,202,Pizza,471
+1010,202,Momos,397
+1011,203,Sandwich,489
+1012,203,Noodles,575
+1013,203,Fried Rice,150
+1014,203,Pizza,282
+1015,203,Paneer Tikka,473
+1016,204,Sandwich,321
+1017,204,Paneer Tikka,118
+1018,204,Roll,595
+1019,204,Momos,273
+1020,204,Burger,589
+1021,205,Pizza,197
+1022,205,Paneer Tikka,220
+1023,205,Noodles,344
+1024,205,Paneer Tikka,448
+1025,205,Fried Rice,302
+1026,206,Sandwich,333
+1027,206,Paneer Tikka,595
+1028,206,Pizza,504
+1029,206,Roll,551
+1030,206,Noodles,346
+1031,207,Noodles,348
+1032,207,Pizza,179
+1033,207,Pizza,152
+1034,207,Momos,303
+1035,207,Pasta,496
+1036,208,Fried Rice,497
+1037,208,Pasta,135
+1038,208,Paneer Tikka,367
+1039,208,Burger,216
+1040,208,Paneer Tikka,390
+1041,209,Pasta,366
+1042,209,Pizza,520
+1043,209,Sandwich,125
+1044,209,Biryani,539
+1045,209,Fried Rice,268
+1046,210,Pizza,172
+1047,210,Biryani,423
+1048,210,Burger,347
+1049,210,Pasta,351
+1050,210,Noodles,203
+1051,211,Roll,233
+1052,211,Roll,388
+1053,211,Noodles,332
+1054,211,Burger,253
+1055,211,Fried Rice,138
+1056,212,Sandwich,548
+1057,212,Sandwich,347
+1058,212,Burger,286
+1059,212,Sandwich,349
+1060,212,Fried Rice,109
+1061,213,Fried Rice,569
+1062,213,Biryani,453
+1063,213,Pasta,136
+1064,213,Pizza,544
+1065,213,Noodles,535
+1066,214,Paneer Tikka,310
+1067,214,Fried Rice,235
+1068,214,Momos,441
+1069,214,Noodles,163
+1070,214,Paneer Tikka,215
+1071,215,Pizza,342
+1072,215,Pasta,191
+1073,215,Momos,547
+1074,215,Momos,377
+1075,215,Fried Rice,222
+1076,216,Noodles,147
+1077,216,Pasta,325
+1078,216,Fried Rice,488
+1079,216,Sandwich,210
+1080,216,Paneer Tikka,124
+1081,217,Noodles,232
+1082,217,Burger,270
+1083,217,Pasta,484
+1084,217,Noodles,499
+1085,217,Roll,572
+1086,218,Paneer Tikka,248
+1087,218,Biryani,252
+1088,218,Fried Rice,584
+1089,218,Sandwich,561
+1090,218,Noodles,552
+1091,219,Noodles,474
+1092,219,Sandwich,587
+1093,219,Biryani,496
+1094,219,Biryani,204
+1095,219,Noodles,295
+1096,220,Burger,508
+1097,220,Burger,385
+1098,220,Pizza,291
+1099,220,Paneer Tikka,277
+1100,220,Biryani,443
+1101,221,Pizza,476
+1102,221,Burger,217
+1103,221,Momos,427
+1104,221,Momos,472
+1105,221,Fried Rice,500
+1106,222,Paneer Tikka,458
+1107,222,Fried Rice,599
+1108,222,Fried Rice,524
+1109,222,Momos,252
+1110,222,Burger,488
+1111,223,Noodles,231
+1112,223,Sandwich,435
+1113,223,Paneer Tikka,404
+1114,223,Roll,299
+1115,223,Burger,385
+1116,224,Roll,597
+1117,224,Noodles,551
+1118,224,Burger,369
+1119,224,Biryani,230
+1120,224,Burger,473
+1121,225,Paneer Tikka,448
+1122,225,Biryani,273
+1123,225,Sandwich,242
+1124,225,Paneer Tikka,252
+1125,225,Pizza,572
+1126,226,Momos,582
+1127,226,Momos,449
+1128,226,Biryani,504
+1129,226,Pasta,579
+1130,226,Momos,327
+1131,227,Noodles,108
+1132,227,Paneer Tikka,386
+1133,227,Burger,271
+1134,227,Pasta,263
+1135,227,Burger,196
+1136,228,Paneer Tikka,342
+1137,228,Biryani,344
+1138,228,Momos,437
+1139,228,Pizza,496
+1140,228,Fried Rice,465
+1141,229,Paneer Tikka,186
+1142,229,Roll,377
+1143,229,Fried Rice,155
+1144,229,Fried Rice,135
+1145,229,Biryani,125
+1146,230,Pizza,168
+1147,230,Pizza,204
+1148,230,Momos,268
+1149,230,Roll,508
+1150,230,Pasta,338
+1151,231,Paneer Tikka,259
+1152,231,Burger,499
+1153,231,Sandwich,174
+1154,231,Fried Rice,343
+1155,231,Momos,339
+1156,232,Sandwich,443
+1157,232,Sandwich,589
+1158,232,Paneer Tikka,559
+1159,232,Pizza,119
+1160,232,Momos,381
+1161,233,Fried Rice,431
+1162,233,Pasta,267
+1163,233,Sandwich,525
+1164,233,Paneer Tikka,101
+1165,233,Fried Rice,162
+1166,234,Burger,588
+1167,234,Fried Rice,227
+1168,234,Biryani,449
+1169,234,Burger,478
+1170,234,Paneer Tikka,249
+1171,235,Momos,477
+1172,235,Paneer Tikka,433
+1173,235,Burger,169
+1174,235,Burger,545
+1175,235,Biryani,537
+1176,236,Biryani,403
+1177,236,Paneer Tikka,479
+1178,236,Roll,264
+1179,236,Fried Rice,598
+1180,236,Sandwich,409
+1181,237,Fried Rice,119
+1182,237,Burger,162
+1183,237,Pizza,544
+1184,237,Roll,135
+1185,237,Pasta,127
+1186,238,Burger,504
+1187,238,Pizza,105
+1188,238,Paneer Tikka,494
+1189,238,Fried Rice,400
+1190,238,Biryani,380
+1191,239,Momos,567
+1192,239,Biryani,201
+1193,239,Sandwich,331
+1194,239,Roll,324
+1195,239,Paneer Tikka,106
+1196,240,Burger,494
+1197,240,Noodles,204
+1198,240,Noodles,453
+1199,240,Biryani,541
+1200,240,Noodles,263
+1201,241,Noodles,399
+1202,241,Roll,439
+1203,241,Fried Rice,137
+1204,241,Noodles,375
+1205,241,Biryani,516
+1206,242,Paneer Tikka,181
+1207,242,Roll,320
+1208,242,Pasta,389
+1209,242,Biryani,299
+1210,242,Burger,266
+1211,243,Paneer Tikka,134
+1212,243,Paneer Tikka,556
+1213,243,Roll,160
+1214,243,Momos,354
+1215,243,Biryani,345
+1216,244,Pizza,561
+1217,244,Pasta,259
+1218,244,Roll,440
+1219,244,Noodles,391
+1220,244,Fried Rice,276
+1221,245,Biryani,385
+1222,245,Roll,296
+1223,245,Pizza,244
+1224,245,Biryani,456
+1225,245,Noodles,305
+1226,246,Momos,390
+1227,246,Sandwich,513
+1228,246,Noodles,384
+1229,246,Biryani,205
+1230,246,Pasta,523
+1231,247,Momos,199
+1232,247,Biryani,258
+1233,247,Pizza,533
+1234,247,Pizza,483
+1235,247,Noodles,218
+1236,248,Biryani,397
+1237,248,Fried Rice,201
+1238,248,Pasta,432
+1239,248,Pasta,594
+1240,248,Paneer Tikka,333
+1241,249,Pizza,369
+1242,249,Roll,178
+1243,249,Biryani,199
+1244,249,Sandwich,335
+1245,249,Pasta,274
+1246,250,Burger,120
+1247,250,Biryani,359
+1248,250,Pasta,206
+1249,250,Roll,488
+1250,250,Pasta,410
+1251,251,Sandwich,517
+1252,251,Burger,399
+1253,251,Fried Rice,333
+1254,251,Biryani,202
+1255,251,Pizza,299
+1256,252,Noodles,146
+1257,252,Burger,281
+1258,252,Momos,460
+1259,252,Pasta,267
+1260,252,Noodles,342
+1261,253,Sandwich,232
+1262,253,Pizza,336
+1263,253,Noodles,284
+1264,253,Momos,210
+1265,253,Paneer Tikka,147
+1266,254,Noodles,492
+1267,254,Biryani,486
+1268,254,Paneer Tikka,489
+1269,254,Noodles,594
+1270,254,Pizza,210
+1271,255,Roll,205
+1272,255,Noodles,319
+1273,255,Fried Rice,585
+1274,255,Burger,101
+1275,255,Sandwich,263
+1276,256,Pizza,573
+1277,256,Fried Rice,464
+1278,256,Biryani,383
+1279,256,Pizza,149
+1280,256,Pizza,117
+1281,257,Paneer Tikka,564
+1282,257,Noodles,126
+1283,257,Roll,576
+1284,257,Roll,126
+1285,257,Fried Rice,569
+1286,258,Pasta,270
+1287,258,Sandwich,266
+1288,258,Burger,429
+1289,258,Sandwich,118
+1290,258,Momos,359
+1291,259,Burger,306
+1292,259,Pizza,508
+1293,259,Paneer Tikka,434
+1294,259,Momos,508
+1295,259,Pizza,438
+1296,260,Fried Rice,296
+1297,260,Paneer Tikka,542
+1298,260,Pizza,174
+1299,260,Noodles,296
+1300,260,Biryani,538
+1301,261,Paneer Tikka,331
+1302,261,Roll,429
+1303,261,Roll,561
+1304,261,Paneer Tikka,477
+1305,261,Momos,343
+1306,262,Paneer Tikka,571
+1307,262,Pasta,163
+1308,262,Burger,212
+1309,262,Pizza,131
+1310,262,Sandwich,288
+1311,263,Pasta,475
+1312,263,Biryani,401
+1313,263,Sandwich,594
+1314,263,Roll,454
+1315,263,Burger,488
+1316,264,Paneer Tikka,501
+1317,264,Sandwich,290
+1318,264,Roll,469
+1319,264,Roll,560
+1320,264,Noodles,463
+1321,265,Pasta,207
+1322,265,Roll,354
+1323,265,Biryani,337
+1324,265,Fried Rice,539
+1325,265,Biryani,163
+1326,266,Pasta,550
+1327,266,Pasta,127
+1328,266,Pizza,467
+1329,266,Paneer Tikka,363
+1330,266,Pizza,439
+1331,267,Biryani,495
+1332,267,Roll,514
+1333,267,Roll,306
+1334,267,Biryani,594
+1335,267,Paneer Tikka,139
+1336,268,Paneer Tikka,290
+1337,268,Sandwich,328
+1338,268,Momos,564
+1339,268,Paneer Tikka,410
+1340,268,Pizza,510
+1341,269,Sandwich,105
+1342,269,Momos,436
+1343,269,Paneer Tikka,118
+1344,269,Burger,306
+1345,269,Burger,534
+1346,270,Sandwich,316
+1347,270,Fried Rice,129
+1348,270,Roll,419
+1349,270,Sandwich,355
+1350,270,Noodles,570
+1351,271,Paneer Tikka,436
+1352,271,Sandwich,456
+1353,271,Pasta,590
+1354,271,Roll,399
+1355,271,Pizza,165
+1356,272,Fried Rice,579
+1357,272,Pizza,580
+1358,272,Paneer Tikka,222
+1359,272,Burger,227
+1360,272,Fried Rice,415
+1361,273,Noodles,438
+1362,273,Biryani,551
+1363,273,Fried Rice,326
+1364,273,Biryani,358
+1365,273,Biryani,163
+1366,274,Pizza,239
+1367,274,Paneer Tikka,420
+1368,274,Paneer Tikka,423
+1369,274,Noodles,573
+1370,274,Biryani,164
+1371,275,Noodles,237
+1372,275,Biryani,567
+1373,275,Burger,160
+1374,275,Burger,497
+1375,275,Fried Rice,366
+1376,276,Pasta,148
+1377,276,Roll,557
+1378,276,Sandwich,404
+1379,276,Fried Rice,397
+1380,276,Noodles,132
+1381,277,Roll,548
+1382,277,Biryani,546
+1383,277,Noodles,437
+1384,277,Paneer Tikka,539
+1385,277,Noodles,185
+1386,278,Pasta,535
+1387,278,Noodles,227
+1388,278,Pasta,172
+1389,278,Biryani,339
+1390,278,Sandwich,567
+1391,279,Fried Rice,439
+1392,279,Burger,395
+1393,279,Fried Rice,302
+1394,279,Burger,289
+1395,279,Biryani,260
+1396,280,Sandwich,112
+1397,280,Sandwich,285
+1398,280,Momos,139
+1399,280,Pizza,541
+1400,280,Pasta,543
+1401,281,Burger,325
+1402,281,Pizza,290
+1403,281,Noodles,223
+1404,281,Pasta,230
+1405,281,Momos,474
+1406,282,Fried Rice,303
+1407,282,Sandwich,434
+1408,282,Pasta,355
+1409,282,Fried Rice,375
+1410,282,Paneer Tikka,201
+1411,283,Noodles,402
+1412,283,Paneer Tikka,325
+1413,283,Momos,490
+1414,283,Pizza,103
+1415,283,Biryani,518
+1416,284,Fried Rice,411
+1417,284,Pizza,116
+1418,284,Pasta,408
+1419,284,Sandwich,409
+1420,284,Sandwich,299
+1421,285,Biryani,316
+1422,285,Sandwich,285
+1423,285,Sandwich,221
+1424,285,Burger,364
+1425,285,Pasta,430
+1426,286,Pasta,338
+1427,286,Pasta,392
+1428,286,Biryani,576
+1429,286,Pizza,124
+1430,286,Paneer Tikka,428
+1431,287,Momos,120
+1432,287,Biryani,263
+1433,287,Pasta,562
+1434,287,Roll,461
+1435,287,Biryani,551
+1436,288,Pasta,390
+1437,288,Paneer Tikka,138
+1438,288,Pasta,326
+1439,288,Noodles,552
+1440,288,Sandwich,291
+1441,289,Momos,462
+1442,289,Momos,227
+1443,289,Burger,192
+1444,289,Fried Rice,234
+1445,289,Momos,517
+1446,290,Pasta,361
+1447,290,Fried Rice,594
+1448,290,Pizza,366
+1449,290,Sandwich,174
+1450,290,Biryani,220
+1451,291,Biryani,477
+1452,291,Fried Rice,217
+1453,291,Roll,515
+1454,291,Roll,455
+1455,291,Fried Rice,163
+1456,292,Fried Rice,469
+1457,292,Roll,591
+1458,292,Pasta,366
+1459,292,Noodles,173
+1460,292,Sandwich,278
+1461,293,Noodles,568
+1462,293,Paneer Tikka,563
+1463,293,Burger,335
+1464,293,Momos,234
+1465,293,Paneer Tikka,418
+1466,294,Fried Rice,117
+1467,294,Fried Rice,253
+1468,294,Biryani,477
+1469,294,Burger,481
+1470,294,Burger,364
+1471,295,Biryani,430
+1472,295,Noodles,206
+1473,295,Pizza,284
+1474,295,Sandwich,395
+1475,295,Pizza,548
+1476,296,Momos,108
+1477,296,Biryani,197
+1478,296,Fried Rice,307
+1479,296,Pizza,208
+1480,296,Biryani,534
+1481,297,Roll,193
+1482,297,Pizza,335
+1483,297,Biryani,219
+1484,297,Roll,565
+1485,297,Burger,277
+1486,298,Burger,291
+1487,298,Burger,188
+1488,298,Pizza,341
+1489,298,Biryani,374
+1490,298,Noodles,118
+1491,299,Noodles,438
+1492,299,Sandwich,110
+1493,299,Roll,581
+1494,299,Biryani,548
+1495,299,Pasta,572
+1496,300,Momos,171
+1497,300,Paneer Tikka,574
+1498,300,Fried Rice,393
+1499,300,Pasta,498
+1500,300,Sandwich,329
+1501,301,Fried Rice,417
+1502,301,Pizza,489
+1503,301,Pizza,406
+1504,301,Roll,414
+1505,301,Paneer Tikka,126
+1506,302,Fried Rice,148
+1507,302,Biryani,599
+1508,302,Sandwich,526
+1509,302,Paneer Tikka,321
+1510,302,Biryani,450
+1511,303,Burger,534
+1512,303,Roll,302
+1513,303,Pasta,218
+1514,303,Fried Rice,530
+1515,303,Burger,479
+1516,304,Fried Rice,268
+1517,304,Noodles,209
+1518,304,Burger,272
+1519,304,Sandwich,198
+1520,304,Noodles,540
+1521,305,Burger,347
+1522,305,Burger,319
+1523,305,Burger,289
+1524,305,Momos,536
+1525,305,Noodles,316
+1526,306,Noodles,600
+1527,306,Paneer Tikka,369
+1528,306,Noodles,123
+1529,306,Paneer Tikka,420
+1530,306,Biryani,421
+1531,307,Burger,473
+1532,307,Biryani,528
+1533,307,Pizza,150
+1534,307,Burger,530
+1535,307,Fried Rice,483
+1536,308,Biryani,259
+1537,308,Paneer Tikka,388
+1538,308,Sandwich,131
+1539,308,Fried Rice,435
+1540,308,Pizza,135
+1541,309,Roll,401
+1542,309,Burger,506
+1543,309,Fried Rice,385
+1544,309,Fried Rice,448
+1545,309,Burger,164
+1546,310,Paneer Tikka,190
+1547,310,Pizza,240
+1548,310,Paneer Tikka,178
+1549,310,Burger,200
+1550,310,Roll,560
+1551,311,Paneer Tikka,318
+1552,311,Noodles,488
+1553,311,Fried Rice,323
+1554,311,Pasta,495
+1555,311,Momos,454
+1556,312,Noodles,458
+1557,312,Roll,163
+1558,312,Pasta,124
+1559,312,Burger,328
+1560,312,Pizza,456
+1561,313,Momos,523
+1562,313,Momos,535
+1563,313,Noodles,248
+1564,313,Roll,454
+1565,313,Momos,191
+1566,314,Sandwich,223
+1567,314,Pasta,100
+1568,314,Noodles,376
+1569,314,Noodles,156
+1570,314,Burger,391
+1571,315,Pasta,370
+1572,315,Burger,282
+1573,315,Momos,132
+1574,315,Roll,419
+1575,315,Roll,403
+1576,316,Roll,103
+1577,316,Fried Rice,366
+1578,316,Pasta,361
+1579,316,Burger,364
+1580,316,Pasta,318
+1581,317,Paneer Tikka,495
+1582,317,Sandwich,104
+1583,317,Paneer Tikka,358
+1584,317,Pizza,146
+1585,317,Burger,194
+1586,318,Fried Rice,363
+1587,318,Paneer Tikka,250
+1588,318,Pasta,464
+1589,318,Biryani,100
+1590,318,Sandwich,107
+1591,319,Biryani,494
+1592,319,Biryani,357
+1593,319,Pasta,403
+1594,319,Burger,143
+1595,319,Roll,246
+1596,320,Biryani,132
+1597,320,Noodles,151
+1598,320,Fried Rice,350
+1599,320,Pizza,600
+1600,320,Burger,410
+1601,321,Burger,385
+1602,321,Paneer Tikka,532
+1603,321,Burger,190
+1604,321,Pasta,378
+1605,321,Momos,545
+1606,322,Pizza,563
+1607,322,Noodles,293
+1608,322,Pasta,186
+1609,322,Noodles,472
+1610,322,Paneer Tikka,180
+1611,323,Pasta,246
+1612,323,Fried Rice,369
+1613,323,Paneer Tikka,484
+1614,323,Roll,419
+1615,323,Sandwich,240
+1616,324,Momos,245
+1617,324,Sandwich,484
+1618,324,Noodles,110
+1619,324,Burger,514
+1620,324,Fried Rice,239
+1621,325,Pasta,304
+1622,325,Paneer Tikka,308
+1623,325,Sandwich,348
+1624,325,Momos,125
+1625,325,Momos,503
+1626,326,Biryani,222
+1627,326,Sandwich,221
+1628,326,Burger,598
+1629,326,Pizza,339
+1630,326,Roll,519
+1631,327,Paneer Tikka,322
+1632,327,Momos,431
+1633,327,Fried Rice,237
+1634,327,Burger,564
+1635,327,Fried Rice,374
+1636,328,Paneer Tikka,270
+1637,328,Paneer Tikka,428
+1638,328,Paneer Tikka,106
+1639,328,Roll,354
+1640,328,Burger,170
+1641,329,Roll,274
+1642,329,Noodles,114
+1643,329,Paneer Tikka,509
+1644,329,Pizza,311
+1645,329,Momos,571
+1646,330,Paneer Tikka,440
+1647,330,Pizza,473
+1648,330,Biryani,270
+1649,330,Pizza,141
+1650,330,Burger,382
+1651,331,Momos,467
+1652,331,Burger,482
+1653,331,Noodles,264
+1654,331,Pizza,449
+1655,331,Noodles,512
+1656,332,Pizza,161
+1657,332,Burger,195
+1658,332,Noodles,380
+1659,332,Roll,526
+1660,332,Burger,600
+1661,333,Momos,367
+1662,333,Burger,560
+1663,333,Momos,270
+1664,333,Pasta,388
+1665,333,Biryani,111
+1666,334,Noodles,404
+1667,334,Paneer Tikka,312
+1668,334,Paneer Tikka,536
+1669,334,Paneer Tikka,206
+1670,334,Roll,184
+1671,335,Sandwich,191
+1672,335,Pizza,200
+1673,335,Roll,215
+1674,335,Momos,109
+1675,335,Momos,545
+1676,336,Biryani,216
+1677,336,Sandwich,591
+1678,336,Roll,363
+1679,336,Pasta,572
+1680,336,Sandwich,219
+1681,337,Momos,356
+1682,337,Sandwich,141
+1683,337,Pasta,284
+1684,337,Fried Rice,336
+1685,337,Biryani,137
+1686,338,Roll,337
+1687,338,Pizza,120
+1688,338,Roll,123
+1689,338,Roll,288
+1690,338,Pizza,251
+1691,339,Pasta,269
+1692,339,Fried Rice,226
+1693,339,Pasta,500
+1694,339,Pizza,146
+1695,339,Fried Rice,201
+1696,340,Pizza,444
+1697,340,Pasta,287
+1698,340,Pasta,521
+1699,340,Pizza,223
+1700,340,Sandwich,486
+1701,341,Sandwich,526
+1702,341,Pasta,344
+1703,341,Pizza,135
+1704,341,Sandwich,153
+1705,341,Momos,437
+1706,342,Fried Rice,445
+1707,342,Paneer Tikka,312
+1708,342,Fried Rice,520
+1709,342,Fried Rice,117
+1710,342,Fried Rice,360
+1711,343,Fried Rice,328
+1712,343,Burger,588
+1713,343,Pasta,183
+1714,343,Pasta,153
+1715,343,Pasta,254
+1716,344,Fried Rice,583
+1717,344,Biryani,440
+1718,344,Biryani,594
+1719,344,Roll,276
+1720,344,Burger,398
+1721,345,Fried Rice,580
+1722,345,Roll,178
+1723,345,Pizza,142
+1724,345,Fried Rice,391
+1725,345,Momos,278
+1726,346,Sandwich,338
+1727,346,Fried Rice,498
+1728,346,Pizza,508
+1729,346,Sandwich,420
+1730,346,Paneer Tikka,579
+1731,347,Burger,296
+1732,347,Biryani,482
+1733,347,Momos,250
+1734,347,Burger,267
+1735,347,Biryani,437
+1736,348,Paneer Tikka,473
+1737,348,Burger,537
+1738,348,Paneer Tikka,352
+1739,348,Paneer Tikka,253
+1740,348,Sandwich,208
+1741,349,Paneer Tikka,590
+1742,349,Roll,237
+1743,349,Pizza,175
+1744,349,Burger,224
+1745,349,Sandwich,260
+1746,350,Fried Rice,142
+1747,350,Noodles,593
+1748,350,Pasta,557
+1749,350,Pasta,100
+1750,350,Momos,203
+1751,351,Momos,476
+1752,351,Momos,130
+1753,351,Noodles,515
+1754,351,Sandwich,148
+1755,351,Noodles,270
+1756,352,Noodles,242
+1757,352,Fried Rice,426
+1758,352,Biryani,575
+1759,352,Momos,502
+1760,352,Biryani,415
+1761,353,Sandwich,133
+1762,353,Momos,396
+1763,353,Noodles,293
+1764,353,Pasta,381
+1765,353,Pasta,148
+1766,354,Fried Rice,430
+1767,354,Pizza,252
+1768,354,Pasta,553
+1769,354,Burger,177
+1770,354,Roll,107
+1771,355,Paneer Tikka,466
+1772,355,Pasta,220
+1773,355,Pizza,202
+1774,355,Noodles,333
+1775,355,Pasta,517
+1776,356,Sandwich,522
+1777,356,Pasta,317
+1778,356,Fried Rice,252
+1779,356,Burger,293
+1780,356,Pizza,239
+1781,357,Pasta,393
+1782,357,Sandwich,534
+1783,357,Burger,254
+1784,357,Pasta,287
+1785,357,Pasta,137
+1786,358,Noodles,103
+1787,358,Pasta,274
+1788,358,Fried Rice,362
+1789,358,Momos,435
+1790,358,Pasta,156
+1791,359,Biryani,596
+1792,359,Sandwich,241
+1793,359,Biryani,577
+1794,359,Biryani,329
+1795,359,Biryani,364
+1796,360,Pizza,146
+1797,360,Paneer Tikka,308
+1798,360,Paneer Tikka,413
+1799,360,Momos,575
+1800,360,Sandwich,188
+1801,361,Sandwich,392
+1802,361,Noodles,155
+1803,361,Biryani,254
+1804,361,Pizza,421
+1805,361,Fried Rice,259
+1806,362,Fried Rice,146
+1807,362,Burger,209
+1808,362,Fried Rice,149
+1809,362,Roll,208
+1810,362,Sandwich,448
+1811,363,Paneer Tikka,296
+1812,363,Momos,202
+1813,363,Biryani,323
+1814,363,Paneer Tikka,515
+1815,363,Pasta,280
+1816,364,Noodles,420
+1817,364,Fried Rice,163
+1818,364,Burger,583
+1819,364,Paneer Tikka,461
+1820,364,Fried Rice,351
+1821,365,Roll,497
+1822,365,Pasta,263
+1823,365,Pizza,409
+1824,365,Sandwich,225
+1825,365,Noodles,542
+1826,366,Momos,313
+1827,366,Momos,396
+1828,366,Roll,396
+1829,366,Momos,304
+1830,366,Paneer Tikka,526
+1831,367,Pasta,542
+1832,367,Biryani,198
+1833,367,Burger,484
+1834,367,Pasta,277
+1835,367,Pasta,252
+1836,368,Fried Rice,550
+1837,368,Pizza,439
+1838,368,Burger,125
+1839,368,Burger,459
+1840,368,Noodles,359
+1841,369,Biryani,196
+1842,369,Momos,581
+1843,369,Biryani,271
+1844,369,Momos,490
+1845,369,Roll,292
+1846,370,Biryani,508
+1847,370,Pizza,247
+1848,370,Pizza,210
+1849,370,Pizza,598
+1850,370,Noodles,469
+1851,371,Fried Rice,501
+1852,371,Roll,376
+1853,371,Momos,165
+1854,371,Noodles,145
+1855,371,Biryani,438
+1856,372,Fried Rice,490
+1857,372,Burger,279
+1858,372,Paneer Tikka,587
+1859,372,Pizza,208
+1860,372,Roll,120
+1861,373,Burger,559
+1862,373,Sandwich,494
+1863,373,Noodles,571
+1864,373,Momos,221
+1865,373,Momos,488
+1866,374,Burger,298
+1867,374,Sandwich,189
+1868,374,Sandwich,511
+1869,374,Momos,117
+1870,374,Burger,166
+1871,375,Noodles,344
+1872,375,Roll,347
+1873,375,Momos,463
+1874,375,Burger,482
+1875,375,Sandwich,226
+1876,376,Biryani,136
+1877,376,Burger,320
+1878,376,Pasta,102
+1879,376,Burger,374
+1880,376,Noodles,265
+1881,377,Pizza,213
+1882,377,Burger,377
+1883,377,Pasta,149
+1884,377,Fried Rice,580
+1885,377,Biryani,242
+1886,378,Sandwich,189
+1887,378,Sandwich,419
+1888,378,Pasta,595
+1889,378,Momos,262
+1890,378,Pasta,597
+1891,379,Paneer Tikka,580
+1892,379,Roll,206
+1893,379,Noodles,405
+1894,379,Noodles,334
+1895,379,Sandwich,169
+1896,380,Pasta,189
+1897,380,Pasta,355
+1898,380,Paneer Tikka,482
+1899,380,Fried Rice,186
+1900,380,Roll,495
+1901,381,Pasta,235
+1902,381,Momos,432
+1903,381,Burger,572
+1904,381,Paneer Tikka,508
+1905,381,Momos,239
+1906,382,Pasta,378
+1907,382,Fried Rice,474
+1908,382,Pizza,373
+1909,382,Noodles,122
+1910,382,Pasta,543
+1911,383,Paneer Tikka,112
+1912,383,Pizza,430
+1913,383,Burger,395
+1914,383,Momos,104
+1915,383,Sandwich,375
+1916,384,Paneer Tikka,287
+1917,384,Roll,494
+1918,384,Pasta,560
+1919,384,Pasta,128
+1920,384,Burger,288
+1921,385,Roll,432
+1922,385,Pizza,586
+1923,385,Burger,162
+1924,385,Pasta,179
+1925,385,Burger,230
+1926,386,Biryani,392
+1927,386,Roll,573
+1928,386,Biryani,446
+1929,386,Pizza,276
+1930,386,Paneer Tikka,276
+1931,387,Sandwich,296
+1932,387,Momos,197
+1933,387,Noodles,468
+1934,387,Momos,197
+1935,387,Paneer Tikka,505
+1936,388,Biryani,294
+1937,388,Biryani,151
+1938,388,Fried Rice,186
+1939,388,Paneer Tikka,446
+1940,388,Biryani,262
+1941,389,Momos,575
+1942,389,Fried Rice,512
+1943,389,Burger,206
+1944,389,Pasta,264
+1945,389,Noodles,417
+1946,390,Sandwich,151
+1947,390,Burger,195
+1948,390,Momos,288
+1949,390,Biryani,181
+1950,390,Noodles,497
+1951,391,Pasta,156
+1952,391,Biryani,292
+1953,391,Momos,321
+1954,391,Noodles,205
+1955,391,Pizza,244
+1956,392,Sandwich,357
+1957,392,Sandwich,216
+1958,392,Roll,470
+1959,392,Burger,545
+1960,392,Noodles,266
+1961,393,Paneer Tikka,394
+1962,393,Pasta,572
+1963,393,Fried Rice,531
+1964,393,Fried Rice,331
+1965,393,Pasta,367
+1966,394,Pizza,512
+1967,394,Sandwich,164
+1968,394,Pasta,580
+1969,394,Burger,296
+1970,394,Pasta,167
+1971,395,Pizza,384
+1972,395,Biryani,423
+1973,395,Pizza,563
+1974,395,Burger,498
+1975,395,Roll,488
+1976,396,Sandwich,214
+1977,396,Momos,303
+1978,396,Fried Rice,250
+1979,396,Pizza,538
+1980,396,Biryani,288
+1981,397,Burger,148
+1982,397,Noodles,242
+1983,397,Noodles,382
+1984,397,Noodles,193
+1985,397,Paneer Tikka,452
+1986,398,Sandwich,264
+1987,398,Paneer Tikka,243
+1988,398,Momos,494
+1989,398,Paneer Tikka,563
+1990,398,Biryani,313
+1991,399,Fried Rice,136
+1992,399,Momos,570
+1993,399,Sandwich,255
+1994,399,Noodles,302
+1995,399,Fried Rice,462
+1996,400,Burger,245
+1997,400,Pasta,553
+1998,400,Pizza,482
+1999,400,Fried Rice,221
+2000,400,Biryani,364
