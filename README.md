@@ -6,7 +6,6 @@ food delivery platform database. It covers business intelligence queries
 ranging from basic aggregations to advanced window functions and stored procedures.
 
 ## Database Schema
-```
 food_delivery
 │
 ├── users         (user_id, user_name, city, age)
