@@ -28,28 +28,28 @@ food_delivery
 ## Business Questions Solved
 
 ###  Basic Analysis
--Question -> Key Result
--Q1 Total Revenue -> ₹8,616,377 
--Q2 Total Orders -> 10,000 
--Q3 Most Used Payment Method -> UPI (3,378) 
--Q4 Top 5 Cities by Orders -> Jaipur, Ahmedabad, Lucknow, Pune, Mumbai 
--Q5 Top 5 Restaurants by Revenue -> Royal Kitchen 143 (₹46,354) 
+- Question -> Key Result
+- Q1 Total Revenue -> ₹8,616,377 
+- Q2 Total Orders -> 10,000 
+- Q3 Most Used Payment Method -> UPI (3,378) 
+- Q4 Top 5 Cities by Orders -> Jaipur, Ahmedabad, Lucknow, Pune, Mumbai 
+- Q5 Top 5 Restaurants by Revenue -> Royal Kitchen 143 (₹46,354) 
 
 ###  Intermediate Analysis
--Question -> Key Result 
--Q6  Most Ordered Food Item -> Burger (1,159) 
--Q7  Average Order Value -> ₹861.64 
--Q8  Orders Per Month -> Peak in Dec 2024 & Jan 2024 
--Q9  Top 5 Customers by Spending -> Rahul Gupta (₹1,20,822) 
--Q10 Most Popular Cuisine -> Indian (2,624 orders) 
+- Question -> Key Result 
+- Q6  Most Ordered Food Item -> Burger (1,159) 
+- Q7  Average Order Value -> ₹861.64 
+- Q8  Orders Per Month -> Peak in Dec 2024 & Jan 2024 
+- Q9  Top 5 Customers by Spending -> Rahul Gupta (₹1,20,822) 
+- Q10 Most Popular Cuisine -> Indian (2,624 orders) 
 
 ### Advanced Analysis
- -Question ->Key Result 
- -Q11 Rank Restaurants by Revenue -> Window Function — RANK() 
- -Q12 Running Total by Date -> CTE + SUM OVER() 
- -Q13 Most Ordered Item Per City -> ROW_NUMBER() + PARTITION BY 
- -Q14 Most Ordered Item Per Cuisine -> Indian → Biryani 
- -Q15 Most Frequent Customers -> Rahul Gupta (129 orders) 
+ - Question ->Key Result 
+ - Q11 Rank Restaurants by Revenue -> Window Function — RANK() 
+ - Q12 Running Total by Date -> CTE + SUM OVER() 
+ - Q13 Most Ordered Item Per City -> ROW_NUMBER() + PARTITION BY 
+ - Q14 Most Ordered Item Per Cuisine -> Indian → Biryani 
+ - Q15 Most Frequent Customers -> Rahul Gupta (129 orders) 
 
 ### Stored Procedures
 - `TopCustomers()` — Top 5 customers by spending
