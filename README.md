@@ -1,4 +1,4 @@
-# Food Delivery SQL Analysis 🍕
+# Food Delivery SQL Analysis 
 
 ## Project Overview
 This project performs an in-depth SQL analysis on a Zomato/Swiggy-style 
